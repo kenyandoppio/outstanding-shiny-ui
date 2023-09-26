@@ -59,7 +59,7 @@ As of `{shiny}` `1.6.0`, end user should use the new theming tools, that is `{bs
 The interested reader should have a look at the following [code](https://github.com/rstudio/shiny/blob/60db1e02b03d8e6fb146c9bb1bbfbce269231add/R/bootstrap-layout.R), inside which are defined all the Shiny Bootstrap-based layout elements, such as the well-known `fluidPage()` wrapper.
 
 ## jQuery, DOM manipulation
-[jQuery](https://jquery.com/) allows JavaScript developers to perform __DOM__ manipulation, that is, interacting with HMTL elements, in a more user-friendly manner than with pure JavaScript. At that step, you might not be familiar with __JavaScript__ nor __jQuery__. Don't worry! Chapter \@ref(survival-kit-javascript) exposes the basics. Below is a comparison on how you would select a button HTML element with both technologies. We are sure you'll notice how jQuery[^jQuery] is more intuitive than JavaScript.
+[jQuery](https://jquery.com/) allows JavaScript developers to perform __DOM__ manipulation, that is, interacting with HMTL elements, in a more user-friendly manner than with pure JavaScript. At this point, you might not be familiar with __JavaScript__ nor __jQuery__. Don't worry! Chapter \@ref(survival-kit-javascript) exposes the basics. Below is a comparison on how you would select a button HTML element with both technologies. We are sure you'll notice how jQuery[^jQuery] is more intuitive than JavaScript.
 
 Javascript:
 
